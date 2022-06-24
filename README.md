@@ -181,7 +181,7 @@ https://ctf.cybersoc.wales/
 
 https://cryptohack.org/
 
-## Tools & Resources
+## Tools
 
 ### Exploits Database
 
