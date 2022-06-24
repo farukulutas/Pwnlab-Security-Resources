@@ -10,7 +10,7 @@
 
 ## Contact Us
 
-- [İletişim](mailto:info@pwnlab.me)
+- [Mail](mailto:info@pwnlab.me)
 
 - [Twitter](https://twitter.com/PwnlabMe)
 
