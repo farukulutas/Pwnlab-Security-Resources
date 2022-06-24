@@ -1,8 +1,8 @@
 <p align="center">
   <img width="200" src="https://pwnlab.me/wp-content/webp-express/webp-images/uploads/2020/11/Logo2334.png.webp" alt="Material Bread logo">
-
-# PWNLAB SECURITY RESOURCES
 </p>
+<h1 align="center">PWNLAB SECURITY RESOURCES</h1>
+
 ## Table of Contents  
 - [Archives](#Archives)
 
