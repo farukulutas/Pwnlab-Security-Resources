@@ -186,180 +186,315 @@ https://cryptohack.org/
 ### Exploits Database
 
 https://www.shodan.io/
+
 http://www.exploit-db.com/
+
 http://packetstormsecurity.com/
 
 ### Vulnerabilities Database
+
 https://nvd.nist.gov/
+
 http://www.secdocs.org/
+
 https://cve.mitre.org/cve/
+
 http://www.cvedetails.com/
+
 https://www.kb.cert.org/vuls/
+
 http://lwn.net/Vulnerabilities/
+
 http://www.vulnerability-lab.com/
+
 http://www.securityfocus.com/bid
+
 https://secunia.com/community/advisories/search/
+
 http://denimgroup.com/resources-threadfix/
 
 ### SSL/TLS Checker
+
 https://www.cdn77.com/tls-test
+
 https://gf.dev/tls-test
+
 https://www.wormly.com/test_ssl/
+
 https://www.digicert.com/help/
+
 https://crt.sh/
 
 ### Hacking Tutorials
+
 http://www.ehacking.net/
+
 http://www.securitytube.net/
+
 http://www.hacking-tutorial.com/
+
 https://www.offensive-security.com/
+
 http://breakthesecurity.cysecurity.org/
+
 http://www.spacerogue.net/wordpress/
+
 https://www.youtube.com/user/Hak5Darren
+
 https://www.youtube.com/user/sansinstitute
+
 https://vimeo.com/channels/fullscopesecurity
+
 http://www.kalitutorials.net/2013/08/kali-linux.html
+
 https://www.youtube.com/user/DEFCONConference
+
 https://en.wikibooks.org/wiki/Metasploit/VideoTutorials
 
 ### Virus Scan
+
 http://fuckingscan.me/
+
 http://v2.scan.majyx.net/
+
 http://nodistribute.com/
+
 http://www.file2scan.net/
+
 http://anubis.iseclab.org/
+
 https://anonscanner.com/
+
 http://virusscan.jotti.org/it
+
 https://www.virustotal.com/nl/
+
 https://urlscan.io/
+
 https://urlhaus.abuse.ch/browse/
+
 https://otx.alienvault.com/
 
-
 ### IOC Search
+
 https://www.threatcrowd.org/listMalware.php?antivirus=Spook
+
 https://otx.alienvault.com/pulse/617bc03687a50f0425bed393
+
 http://www.covert.io/threat-intelligence/
 
 ### Phishing Database
+
 https://phishtank.org/
 
-
 ### Tools Download
+
 http://insecure.org/
+
 http://www.kitploit.com/
+
 http://www.toolswatch.org/
+
 http://tools.kali.org/tools-listing
+
 http://www.romhacking.net/utilities/
+
 http://www.blackarch.org/tools.html
+
 http://www.hackersonlineclub.com/hacking-tools
+
 https://www.concise-courses.com/hacking-tools/
+
 https://gexos.github.io/Hacking-Tools-Repository/
+
 http://www.darknet.org.uk/category/hacking-tools/
+
 https://pentest-tools.com/reconnaissance/google-hacking
 
 ### Network Online Tools
+
 https://dnslytics.com/
+
 http://bgp.he.net/
+
 http://www.dnswatch.info/
+
 http://www.tcpiputils.com/
+
 http://services.ce3c.be/ciprg/
+
 http://www.yougetsignal.com/
+
 http://www.coffer.com/mac_find/
+
 http://www.nirsoft.net/countryip/
+
 http://www.sockets.com/services.htm
+
 https://mxtoolbox.com/
 
 ### IP Lookup
+
 http://ip-api.com/
+
 http://ipaddress.com/
+
 http://whatstheirip.com/
+
 http://www.whatismyip.com/
+
 http://www.ip2location.com/demo
+
 http://www.my-ip-neighbors.com/
+
 http://freegeoip.net/static/index.html
+
 http://www.ip-adress.com/ipaddresstolocation/
 
 ### Information Gathering & OSINT
+
 https://www.wappalyzer.com/
+
 https://tweetfeed.live/
+
 https://wheregoes.com/trace/2022349876/
+
 https://hunter.io/
+
 https://spyse.com/
+
 https://pulsedive.com/
+
 https://www.greynoise.io/
+
 https://publicwww.com/
+
 https://wigle.net/
+
 https://reposify.com/
+
 https://www.binaryedge.io/
+
 https://fullhunt.io/
+
 https://sploitus.com/
+
 https://gephi.org/
+
 https://intelx.io/
+
 https://tinfoleak.com/
+
 https://lookup.icann.org/
+
 https://www.robtex.com/
+
 https://www.whoxy.com/
+
 https://censys.io/
+
 https://reverseip.domaintools.com/
+
 https://who.is/
+
 https://domainbigdata.com/
+
 https://zoomeye.org/
+
 https://leakix.net/
+
 https://analyze.intezer.com/
+
 https://onyphe.io/
+
 https://netlas.io/
+
 https://dnsdumpster.com/
+
 https://any.run/
 
 ### Encrypt / Decrypt
+
 http://crypo.in.ua/tools/
+
 http://codebeautify.org/encrypt-decrypt
+
 http://www.yellowpipe.com/yis/tools/encrypter/
+
 http://www.tools4noobs.com/online_tools/decrypt/
+
 http://textmechanic.com/Encryption-Generator.html
+
 https://www.base64decode.org/
 
 ### Online Hash Crackers
+
 http://www.cmd5.org/
+
 http://hashcrack.in/en
+
 https://crackstation.net/
+
 http://passcracking.com/
+
 http://md5.rednoize.com/
+
 http://www.hashkiller.co.uk/
+
 http://www.md5online.org/
+
 http://www.md5crack.com/
+
 http://md5decryption.com/
+
 http://www.cloudcracker.net/
+
 https://hdb.insidepro.com/en
+
 http://www.onlinehashcrack.com/
+
 http://www.md5this.com/index.php
+
 http://www.netmd5crack.com/cracker/
+
 http://www.tydal.nu/article/md5-crack/
+
 https://isc.sans.edu/tools/reversehash.html
 
 ### Anonymous Test
+
 https://ipleak.net/
+
 https://www.dnsleaktest.com/
+
 https://diafygi.github.io/webrtc-ips/
 
 ### SMS
 http://receive-sms-now.com/
+
 http://www.receivesmsonline.net/
+
 http://www.receive-sms-online.info/
 
 ### Fake Identity
 https://fakena.me/
+
 http://www.fakenamegenerator.com/
+
 http://names.igopaygo.com/people/fake_person
 
 ### Steganography
+
 http://exif.regex.info/exif.cgi
+
 https://www.pic2map.com/
+
 https://exiftool.org/
 
 ### Forensics
+
 https://29a.ch/photo-forensics/#forensic-magnifier
+
 https://github.com/GuidoBartoli/sherloq
 
 ## Linux Tutorial
