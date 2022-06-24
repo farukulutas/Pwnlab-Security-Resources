@@ -2,7 +2,7 @@
   <img width="300" src="https://pwnlab.me/wp-content/webp-express/webp-images/uploads/2020/11/Logo2334.png.webp" alt="Material Bread logo">
 </p>
 
-<h1 align="center">PWNLAB SECURITY RESOURCES</h1>
+<h1 align="center">PWNLAB.ME</h1>
 
 <p align="justify"> PwnLab.Me Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, bu ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur.</p>
 
@@ -20,6 +20,7 @@
 
 - [Discord](https://discord.gg/GYzrXcGTbr)
 
+<h1 align="center">PWNLAB SECURITY RESOURCES</h1>
 
 ## Table of Contents  
 - [Archives](#Archives)
