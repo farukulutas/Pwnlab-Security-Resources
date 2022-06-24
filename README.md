@@ -1,19 +1,19 @@
 # PWNLAB SECURITY RESOURCES
 
 ## Table of Contents  
-*[Archives](#Archives)
+-[Archives](#Archives)
 
-*[Blogs](#Blogs)
+-[Blogs](#Blogs)
 
-*[Telegram Channel](#Telegram-Channel)
+-[Telegram Channel](#Telegram-Channel)
 
-*[Youtube Channel](#Youtube-Channel)
+-[Youtube Channel](#Youtube-Channel)
 
-*[CTF](#CTF)
+-[CTF](#CTF)
 
-*[Tools](#Tools)
+-[Tools](#Tools)
 
-*[Documents](#Documents)
+-[Documents](#Documents)
 
 ## Archives  
 
