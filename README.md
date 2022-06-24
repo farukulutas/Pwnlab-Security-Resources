@@ -35,91 +35,156 @@ https://www.gnupg.org/documentation/manuals/gcrypt/
 ## Blogs
 
 https://www.hackingarticles.in/
-https://0x00sec.org/
-https://0xffsec.com/
-https://medium.com/
-https://pwnlab.me/
-https://blog.shiftleft.io/
-https://bishopfox.com/blog/
-https://infosecwriteups.com/
-https://www.schneier.com/
-https://www.ericconrad.com/
-https://danielmiessler.com/blog/
-https://www.redtimmy.com/blog/
-http://bc-security.org/blog
-http://rastamouse.me/
-https://hakluke.medium.com/
-https://hausec.com/
-https://inteltechniques.com/blog/
-https://whitton.io/
-https://tisiphone.net/
-https://taosecurity.blogspot.com/
-https://blog.zsec.uk/
-https://grahamcluley.com/
-https://benjaminstrick.com/blog/
-https://blog.bushidotoken.net/
-https://www.intelligencewithsteve.com/blog
-https://keyfindings.blog/
-https://www.osinteditor.com/
-https://www.osintme.com/
-https://www.osintcombine.com/blog
 
+https://0x00sec.org/
+
+https://0xffsec.com/
+
+https://medium.com/
+
+https://pwnlab.me/
+
+https://blog.shiftleft.io/
+
+https://bishopfox.com/blog/
+
+https://infosecwriteups.com/
+
+https://www.schneier.com/
+
+https://www.ericconrad.com/
+
+https://danielmiessler.com/blog/
+
+https://www.redtimmy.com/blog/
+
+http://bc-security.org/blog
+
+http://rastamouse.me/
+
+https://hakluke.medium.com/
+
+https://hausec.com/
+
+https://inteltechniques.com/blog/
+
+https://whitton.io/
+
+https://tisiphone.net/
+
+https://taosecurity.blogspot.com/
+
+https://blog.zsec.uk/
+
+https://grahamcluley.com/
+
+https://benjaminstrick.com/blog/
+
+https://blog.bushidotoken.net/
+
+https://www.intelligencewithsteve.com/blog
+
+https://keyfindings.blog/
+
+https://www.osinteditor.com/
+
+https://www.osintme.com/
+
+https://www.osintcombine.com/blog
 
 
 ## Telegram Channel
 
 https://t.me/CyberSec_TR
-https://t.me/library_Sec/1524
-https://t.me/cloudandcybersecurity
-https://t.me/parrotsecturkey
-https://t.me/AdliBilisimTurkiye
-https://t.me/KekikAkademi
 
+https://t.me/library_Sec/1524
+
+https://t.me/cloudandcybersecurity
+
+https://t.me/parrotsecturkey
+
+https://t.me/AdliBilisimTurkiye
+
+https://t.me/KekikAkademi
 
 ## YouTube Channel
 
 https://www.youtube.com/c/Cover6Solutions/
+
 https://www.youtube.com/user/Hak5Darren
+
 https://www.youtube.com/user/DEFCONConference
+
 https://www.youtube.com/user/sansinstitute
+
 https://www.youtube.com/c/stacksmashing
+
 https://www.youtube.com/user/Authentic8TV
+
 https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/videos
+
 https://www.youtube.com/osintdojo
+
 https://www.youtube.com/c/MehmetDursunInce/
+
 https://www.youtube.com/c/CanDeger/
+
 https://www.youtube.com/c/UtkuSenYoutube/
+
 https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ/
+
 https://www.youtube.com/user/Om3rCitak/
 
 ## CTF
 
 https://tryhackme.com/
+
 https://hackthebox.com/
+
 https://www.vulnhub.com/
+
 https://portswigger.net/web-security/all-labs
+
 https://ctf.pwnlab.me/
+
 https://ctftime.org/
+
 https://hackmyvm.eu/
+
 https://www.cyberseclabs.co.uk/
+
 https://www.root-me.org/
+
 https://www.hackerone.com/
+
 https://pentesterlab.com/
+
 https://www.revshells.com/
+
 https://blueteamlabs.online/
+
 https://anarplex.net/
+
 https://www.wechall.net/active_sites
+
 https://overthewire.org/wargames/
+
 https://vulnmachines.com/
+
 https://ctflearn.com/
+
 https://247ctf.com/
+
 https://cryptohack.org/
+
 https://ctf.cybersoc.wales/
+
 https://cryptohack.org/
 
 ## Tools & Resources
 
 ### Exploits Database
+
 https://www.shodan.io/
 http://www.exploit-db.com/
 http://packetstormsecurity.com/
