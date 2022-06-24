@@ -1,5 +1,13 @@
 # PWNLAB SECURITY RESOURCES
 
+##### Table of Contents  
+[Archives](#Archives)
+[Blogs](#Blogs)
+[Telegram Channel](#Telegram-Channel)
+[Youtube Channel](#Youtube-Channel)
+[CTF](#CTF)
+[Tools](#Tools)
+[Documents](#Documents)
 
 ## Archives  
 
@@ -506,8 +514,9 @@ https://www.maketecheasier.com/guide-to-mastering-linux/
 https://linoxide.com/linux-directory-structure/
 
 
+##Documents
 
-## Reverse Engineering & Malware Analysis 
+### Reverse Engineering & Malware Analysis 
 
 https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/
 
@@ -531,7 +540,7 @@ https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-ma
 
 https://soolidsnake.github.io/2021/07/17/hellokitty_linux.html
 
-## Digital Forensics & Steganography
+### Digital Forensics & Steganography
 
 https://www.meridiandiscovery.com/articles/word-forensic-analysis-compound-file-binary/
 
@@ -539,7 +548,7 @@ https://github.com/cugu/awesome-forensics
 
 https://www.forensicfocus.com/articles/a-linux-forensics-starter-case-study/
 
-## Cyber Intelligence
+### Cyber Intelligence
 
 https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc?hl=en-US
 
@@ -600,7 +609,7 @@ https://www.osinttechniques.com/
 https://www.phishlabs.com/blog/
 
 
-## Penetration Testing
+### Penetration Testing
 
 https://attack.mitre.org/
 
@@ -628,14 +637,14 @@ https://github.com/TheKingOfDuck/fuzzDicts
 
 https://github.com/danielmiessler/SecLists
 
-## Cryptography
+### Cryptography
 
 https://www.youtube.com/c/CihangirTezcan/videos
 
 https://github.com/mdisec/crpyto101-egitim
 
 
-## Network Security
+### Network Security
 
 https://mehmetdmrbg.medium.com/kablosuz-a%C4%9F-sizma-tekni%CC%87kleri%CC%87-nelerdi%CC%87r-ve-kablosuz-a%C4%9F-g%C3%BCvenli%CC%87%C4%9Fi%CC%87-nasil-sa%C4%9Flanir-22c492501d49
 
