@@ -1,4 +1,4 @@
-![](https://pwnlab.me/wp-content/webp-express/webp-images/uploads/2020/11/Logo2334.png.webp)
+![](https://pwnlab.me/wp-content/webp-express/webp-images/uploads/2020/11/Logo2334.png.webp | width = 100)
 
 # PWNLAB SECURITY RESOURCES
 
