@@ -4,7 +4,7 @@
 
 <h1 align="center">PWNLAB.ME</h1>
 
-<p align="justify"> <a href="https://pwnlab.me/">PwnLab.Me</a> Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, bu ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur.</p>
+<p align="justify"> <a href="https://pwnlab.me/">PwnLab.Me</a> Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur.</p>
 
 ## Contact Us
 
