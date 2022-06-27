@@ -128,6 +128,8 @@ https://www.osintme.com/
 
 https://www.osintcombine.com/blog
 
+https://vvhack.org/
+
 
 ## Telegram Channel
 
