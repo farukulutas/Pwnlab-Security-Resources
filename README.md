@@ -229,6 +229,22 @@ http://www.exploit-db.com/
 
 http://packetstormsecurity.com/
 
+https://www.rapid7.com/db/
+
+https://cxsecurity.com/
+
+https://packetstormsecurity.com/
+
+https://vuldb.com/?
+
+https://vulners.com/
+
+https://sploitus.com/
+
+https://www.vulnerability-lab.com/
+
+https://en.0day.today/
+
 ### Vulnerabilities Database
 
 https://nvd.nist.gov/
