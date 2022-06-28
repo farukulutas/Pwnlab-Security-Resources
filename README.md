@@ -41,7 +41,7 @@
 
 https://mega.nz/folder/1cgAAKTQ#TsXutcd8w6GKFVfAJ_owaQ
 
-https://arsiv.kekikakademi.workers.dev/ → user:pass → @KekikAkademi:@CyberSec_TR 
+https://arsiv.kekikakademi.workers.dev/ → user:pass → @KekikAkademi:@KekikKitap
 
 https://depo.coderator.net/
 
