@@ -543,6 +543,8 @@ https://www.pic2map.com/
 
 https://exiftool.org/
 
+https://cleanup.pictures/
+
 ### Forensics
 
 https://29a.ch/photo-forensics/#forensic-magnifier
