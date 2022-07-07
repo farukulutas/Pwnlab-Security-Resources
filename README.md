@@ -145,31 +145,31 @@ https://t.me/KekikAkademi
 
 ## YouTube Channel
 
-https://www.youtube.com/c/Cover6Solutions/
+[ Cover6 Solutions ] https://www.youtube.com/c/Cover6Solutions/
 
-https://www.youtube.com/user/Hak5Darren
+[ Hak5 ] https://www.youtube.com/user/Hak5Darren
 
-https://www.youtube.com/user/DEFCONConference
+[ DEFCONConference ] https://www.youtube.com/user/DEFCONConference
 
-https://www.youtube.com/user/sansinstitute
+[ stacksmashing ] https://www.youtube.com/c/stacksmashing
 
-https://www.youtube.com/c/stacksmashing
+[ Authentic8 ] https://www.youtube.com/user/Authentic8TV
 
-https://www.youtube.com/user/Authentic8TV
+[ conINT ] https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/videos
 
-https://www.youtube.com/channel/UCBtSOceclpKcvunVNw82tFQ/videos
+[ OSINT Dojo ] https://www.youtube.com/osintdojo
 
-https://www.youtube.com/osintdojo
+[ Mehmet D. INCE ] https://www.youtube.com/c/MehmetDursunInce/
 
-https://www.youtube.com/c/MehmetDursunInce/
+[ Can Deger ] https://www.youtube.com/c/CanDeger/
 
-https://www.youtube.com/c/CanDeger/
+[ Utku Sen ] https://www.youtube.com/c/UtkuSenYoutube/
 
-https://www.youtube.com/c/UtkuSenYoutube/
+[ Atil Samancioglu ] https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ/
 
-https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ/
+[ Omer Citak ] https://www.youtube.com/user/Om3rCitak/
 
-https://www.youtube.com/user/Om3rCitak/
+[ Z-winK University (ZU) - Bug Bounty Education ] https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ/videos
 
 ## CTF
 
