@@ -695,3 +695,18 @@ https://github.com/mdisec/crpyto101-egitim
 https://mehmetdmrbg.medium.com/kablosuz-a%C4%9F-sizma-tekni%CC%87kleri%CC%87-nelerdi%CC%87r-ve-kablosuz-a%C4%9F-g%C3%BCvenli%CC%87%C4%9Fi%CC%87-nasil-sa%C4%9Flanir-22c492501d49
 
 https://barisinceisci.wordpress.com/2022/01/29/kablosuz-aglarda-802-1x-ile-ag-guvenliginin-saglanmasi/
+
+### Wordlist
+
+https://nordpass.com/most-common-passwords-list/
+
+https://github.com/berzerk0/Probable-Wordlists
+
+https://github.com/utkusen/turkce-wordlist
+
+https://github.com/xajkep/wordlists
+
+https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/
+
+https://github.com/danielmiessler/SecLists
+
