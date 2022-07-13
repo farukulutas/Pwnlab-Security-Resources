@@ -751,4 +751,4 @@ ThreatStream.com
 
 ThreatTrack.com : Kötü amaçlı URL'lerin, IP'lerin ve kötü amaçlı yazılım / kimlik avı ile ilgili verilerin akışı ile çalışmaktadır.
 
-Verisigninc.com
+https://Verisigninc.com
