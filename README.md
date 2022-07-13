@@ -710,3 +710,45 @@ https://blog.g0tmi1k.com/2011/06/dictionaries-wordlists/
 
 https://github.com/danielmiessler/SecLists
 
+
+### Siber Tehdit İstihbaratı Yayınları
+
+AlienVault.com : Düşmanları profilleyen çoklu kaynaklar bulundurur.
+
+Cyveilance.com : Benzersiz tehdit oyuncuları ile beslenir ve cezai yaptırımları belirtir.
+
+EmergingThreats.net : Çeşitli yayınları bulunmaktadır.
+
+FireEye.com : Dinamik Tehdit İstihbarat servisidir.
+
+HackSurfer.com : İşinize uyarlanmış bilgiler sunar.
+
+InternetIdentity.com : Tehdit, büyük veri çözümü ActiveTrust'ten beslenir.
+
+RecordedFuture.com : Web'den gerçek zamanlı tehdit zekâsı verileri sunar
+
+SecureWorks.com : Yayınlar ve ayrıca belgeler sağlar.
+
+Symantec.com : DeepInsight da dahil olmak üzere çeşitli konularda yayınları vardır.
+
+Spytales.com : Tehdit aktörlerinin geçmişi, bugünü ve geleceği hakkında bilmeniz gereken bilgiler sunar.
+
+Team-Cymru.com : Tehdit istihbarat ve Bogon listeleri sunar.
+
+TheCyberThreat : Kendi Twitter yayınlarını sunar . Üst düzey ve kapsamlı yayınlardır.
+
+ThingsCyber.com : Günümüz savunmasıyla ilgili siber çatışma ve siber güvenlik konusundaki kritik noktaları belirtir.
+
+ThreatConnect.com : Cyber Squared tarafından bilgi paylaşımına odaklanmış bir servistir.
+
+ThreatGrid.com : Birleşik kötü amaçlı yazılım analizi üzerine çalışır.
+
+ThreatIntelligenceReview.com : Tehdit istihbarat kaynaklarının incelemesi ve güncellenmesi üzerine çalışır.
+
+ThreatStop.com : IP kaynağına göre Bontet’lerin engellenmesi üzerine çalışır.
+
+ThreatStream.com
+
+ThreatTrack.com : Kötü amaçlı URL'lerin, IP'lerin ve kötü amaçlı yazılım / kimlik avı ile ilgili verilerin akışı ile çalışmaktadır.
+
+Verisigninc.com
