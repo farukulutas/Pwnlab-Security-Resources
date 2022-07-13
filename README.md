@@ -713,42 +713,42 @@ https://github.com/danielmiessler/SecLists
 
 ### Siber Tehdit İstihbaratı Yayınları
 
-AlienVault.com : Düşmanları profilleyen çoklu kaynaklar bulundurur.
+https://AlienVault.com : Düşmanları profilleyen çoklu kaynaklar bulundurur.
 
-Cyveilance.com : Benzersiz tehdit oyuncuları ile beslenir ve cezai yaptırımları belirtir.
+https://Cyveilance.com : Benzersiz tehdit oyuncuları ile beslenir ve cezai yaptırımları belirtir.
 
-EmergingThreats.net : Çeşitli yayınları bulunmaktadır.
+https://EmergingThreats.net : Çeşitli yayınları bulunmaktadır.
 
-FireEye.com : Dinamik Tehdit İstihbarat servisidir.
+https://FireEye.com : Dinamik Tehdit İstihbarat servisidir.
 
-HackSurfer.com : İşinize uyarlanmış bilgiler sunar.
+https://HackSurfer.com : İşinize uyarlanmış bilgiler sunar.
 
-InternetIdentity.com : Tehdit, büyük veri çözümü ActiveTrust'ten beslenir.
+https://InternetIdentity.com : Tehdit, büyük veri çözümü ActiveTrust'ten beslenir.
 
-RecordedFuture.com : Web'den gerçek zamanlı tehdit zekâsı verileri sunar
+https://RecordedFuture.com : Web'den gerçek zamanlı tehdit zekâsı verileri sunar
 
-SecureWorks.com : Yayınlar ve ayrıca belgeler sağlar.
+https://SecureWorks.com : Yayınlar ve ayrıca belgeler sağlar.
 
-Symantec.com : DeepInsight da dahil olmak üzere çeşitli konularda yayınları vardır.
+https://Symantec.com : DeepInsight da dahil olmak üzere çeşitli konularda yayınları vardır.
 
-Spytales.com : Tehdit aktörlerinin geçmişi, bugünü ve geleceği hakkında bilmeniz gereken bilgiler sunar.
+https://Spytales.com : Tehdit aktörlerinin geçmişi, bugünü ve geleceği hakkında bilmeniz gereken bilgiler sunar.
 
-Team-Cymru.com : Tehdit istihbarat ve Bogon listeleri sunar.
+https://Team-Cymru.com : Tehdit istihbarat ve Bogon listeleri sunar.
 
-TheCyberThreat : Kendi Twitter yayınlarını sunar . Üst düzey ve kapsamlı yayınlardır.
+https://TheCyberThreat : Kendi Twitter yayınlarını sunar . Üst düzey ve kapsamlı yayınlardır.
 
-ThingsCyber.com : Günümüz savunmasıyla ilgili siber çatışma ve siber güvenlik konusundaki kritik noktaları belirtir.
+https://ThingsCyber.com : Günümüz savunmasıyla ilgili siber çatışma ve siber güvenlik konusundaki kritik noktaları belirtir.
 
-ThreatConnect.com : Cyber Squared tarafından bilgi paylaşımına odaklanmış bir servistir.
+https://ThreatConnect.com : Cyber Squared tarafından bilgi paylaşımına odaklanmış bir servistir.
 
-ThreatGrid.com : Birleşik kötü amaçlı yazılım analizi üzerine çalışır.
+https://ThreatGrid.com : Birleşik kötü amaçlı yazılım analizi üzerine çalışır.
 
-ThreatIntelligenceReview.com : Tehdit istihbarat kaynaklarının incelemesi ve güncellenmesi üzerine çalışır.
+https://ThreatIntelligenceReview.com : Tehdit istihbarat kaynaklarının incelemesi ve güncellenmesi üzerine çalışır.
 
-ThreatStop.com : IP kaynağına göre Bontet’lerin engellenmesi üzerine çalışır.
+https://ThreatStop.com : IP kaynağına göre Bontet’lerin engellenmesi üzerine çalışır.
 
-ThreatStream.com
+https://ThreatStream.com
 
-ThreatTrack.com : Kötü amaçlı URL'lerin, IP'lerin ve kötü amaçlı yazılım / kimlik avı ile ilgili verilerin akışı ile çalışmaktadır.
+https://ThreatTrack.com : Kötü amaçlı URL'lerin, IP'lerin ve kötü amaçlı yazılım / kimlik avı ile ilgili verilerin akışı ile çalışmaktadır.
 
 https://Verisigninc.com
