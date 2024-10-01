@@ -6,6 +6,11 @@
 
 <p align="justify"> <a href="https://pwnlab.me/">PwnLab.Me</a> Türkiyedeki Siber Güvenlik ekosistemini canlandırmak, ekosisteme yeni insanlar kazandırmak ve bu alanda edinilen bilgi ve tecrübeyi Siber Güvenlik meraklılarıyla paylaşmayı hedefleyen gönüllü bir Siber Güvenlik Topluluğudur.</p>
 
+---
+
+### Not:
+Güzelim siteyi sonradan foruma çevirmişler, gözlerimiz yaşlı...
+
 ## Contact Us
 
 - [E-Mail](mailto:info@pwnlab.me)
@@ -13,10 +18,6 @@
 - [Twitter](https://twitter.com/PwnlabMe)
 
 - [Instagram](https://www.instagram.com/pwnlab.me/)
-
-- [Telegram](https://t.me/CyberSec_TR)
-
-- [Discord](https://discord.gg/GYzrXcGTbr)
 
 <h1 align="center">PWNLAB SECURITY RESOURCES</h1>
 
@@ -38,8 +39,6 @@
 - [Documents](#Documents)
 
 ## Archives  
-
-https://mega.nz/folder/1cgAAKTQ#TsXutcd8w6GKFVfAJ_owaQ
 
 https://arsiv.kekikakademi.workers.dev/ → user:pass → @KekikAkademi:@KekikKitap
 
