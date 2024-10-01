@@ -68,6 +68,8 @@ https://www.gnupg.org/documentation/manuals/gcrypt/
 
 ## Blogs
 
+https://cyberskillshub.com/siber-guvenlik-blogu/
+
 https://www.hackingarticles.in/
 
 https://0x00sec.org/
@@ -131,13 +133,11 @@ https://vvhack.org/
 
 ## Telegram Channel
 
-https://t.me/CyberSec_TR
+https://t.me/CyberSkillsHub
 
 https://t.me/library_Sec/1524
 
 https://t.me/cloudandcybersecurity
-
-https://t.me/parrotsecturkey
 
 https://t.me/AdliBilisimTurkiye
 
